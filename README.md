@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://images.app.goo.gl/VQctBQ84y7ExUqh16" width="150" height="150" alt="Aryan Mhalsank" style="border-radius: 50%;">
   <h1>Aryan Mhalsank</h1>
   <p><strong>AI Engineer & Machine Learning Enthusiast</strong></p>
   <p>Passionate about building intelligent systems using <strong>Generative AI</strong> and <strong>Computer Vision</strong>.</p>
